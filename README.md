@@ -3,7 +3,6 @@ Software Engineer @Trendyol
 <br/>
 
 <h2 align="center">
-
 About Me 🎈 
 </h2>
 Software Engineer with industry experience, mostly e-commerce domain, building highly scalable and fault-tolerant systems. I specialize in software development and have professional experience working with Golang and Java. I participate in every cycle of software development from planning to design, development, reviewing, testing, deployment and monitoring. I believe that good products are achieved by a good team culture so I value teamwork and building strong relationships.
