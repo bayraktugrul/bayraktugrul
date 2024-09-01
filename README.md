@@ -9,16 +9,7 @@ Software Engineer with industry experience, mostly e-commerce domain, building h
 </p>
 <center>
 <br>
-Some topics that I have experience are:  
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+Some topics I am interested in: Go, Microservices, Event Driven Architecture, DDD, Agile Practices, Software Testing, Java, Spring, Elasticsearch, Kafka, Couchbase, PostgreSQL, CI/CD
 
 <h2 align="center">
 🤝🏻 Connect with me 
