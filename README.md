@@ -1,27 +1,14 @@
-### Hi there,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-Software Engineer @Trendyol
-<br/>
+I'm currently working at [Trendyol](https://github.com/Trendyol) as a Software Engineer.
 
-<h2 align="center">
-About Me 🎈 
-</h2>
-Software Engineer with industry experience, mostly e-commerce domain, building highly scalable and fault-tolerant systems. I specialize in software development and have experience working with Golang and Java. I participate in every cycle of software development from planning to design, development, reviewing, testing, deployment and monitoring.
-</p>
-<center>
-<br>
-Some topics I am interested in: Go, Microservices, Event Driven Architecture, DDD, Agile Practices, Software Testing, Java, Spring, Elasticsearch, Kafka, Couchbase, PostgreSQL, CI/CD
+🧩 &nbsp;Experienced in designing and building scalable, fault-tolerant systems, primarily in the e-commerce domain.  
+🎯 &nbsp;Curious about software architectures, distributed systems, have experience in Golang, Java, microservices, event-driven architectures, software testing, DDD, Agile practices..  
 
-<h2 align="center">
-🤝🏻 Connect with me 
-</h2>
-  
-<p align="center">
-<a href="https://medium.com/@tugrulbayrak" target="_blank">
-    <img height="28" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
-</a>
-  
+#### 🔗 Connect
 <a href="https://www.linkedin.com/in/tugrulbayrak" target="_blank">
-    <img height="28" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
-</p> 
+
+<a href="https://medium.com/@tugrulbayrak" target="_blank">
+    <img height="30" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+</a>
   
