@@ -1,6 +1,6 @@
-I'm currently working at [Trendyol](https://github.com/Trendyol) as a Software Engineer.
+I'm currently working at [Midas](https://www.linkedin.com/company/getmidas) as a Sr. Software Engineer.
 
-🧩 &nbsp;Experienced in designing and building scalable, fault-tolerant systems, primarily in the e-commerce domain.  
+🧩 &nbsp;Experienced in designing and building scalable, fault-tolerant systems, primarily in the e-commerce and fintech domains.  
 🎯 &nbsp;Curious about software architectures, distributed systems, have experience in Golang, Java, microservices, event-driven architectures, software testing, DDD, Agile practices..  
 
 #### 🔗 Connect
